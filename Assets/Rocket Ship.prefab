@@ -255,7 +255,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a17f9ad2998440c448bc3e7db0cbfea5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rcsThrust: 250
+  rcsThrust: 300
   mainThrust: 2000
   levelLoadDelay: 2
   mainEngine: {fileID: 8300000, guid: 6c0e6b62e4781e04c8587b78c15822c1, type: 3}
